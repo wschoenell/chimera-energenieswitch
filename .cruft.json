@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/astroufsc/chimera-template",
+  "commit": "0177dff80a2c4e7fcdb67a2f775a1379ba62fb81",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Energenieswitch",
+      "project_slug": "chimera-energenieswitch",
+      "package_name": "chimera_energenieswitch",
+      "__module_name": "energenieswitch",
+      "project_short_description": "Chimera plugin for EnerGenie network power switches",
+      "author_name": "William Schoenell",
+      "author_email": "wschoenell@gmail.com",
+      "github_username": "astroufsc",
+      "version": "0.1.0",
+      "license": "GPL-2.0-or-later",
+      "python_version": "3.13",
+      "include_instrument": "yes",
+      "include_controller": "no",
+      "__instrument_class_name": "EnergenieswitchInstrument",
+      "__controller_class_name": "EnergenieswitchController",
+      "__instrument_module_name": "energenieswitchinstrument",
+      "__controller_module_name": "energenieswitchcontroller",
+      "year": "2026",
+      "_template": "https://github.com/astroufsc/chimera-template",
+      "_commit": "0177dff80a2c4e7fcdb67a2f775a1379ba62fb81"
+    }
+  },
+  "directory": null
+}
